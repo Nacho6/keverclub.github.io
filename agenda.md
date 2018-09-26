@@ -12,7 +12,8 @@ sitemap:
 ### 2018
 
 | Datum                     | Naam                         | Locatie
-| ------------------------- | :----------------------- :|-------------:
+| - ----------------------- | :----------------------- :|-------------:
+  27 Oktober                  Schieten st.Urbanus Belfeld
 | 7 t/m 9 september         | Beautiful Budel           | Budel  
 | 1e zondag september       | USA Car treffen           | Reuver  
 | 31 augustus 1, 2 september| Oldtimertreffen           | Lanaken  
